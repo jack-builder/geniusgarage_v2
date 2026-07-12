@@ -4,7 +4,7 @@ export default function Home() {
       <div style={{ textAlign: 'center', marginTop: '4rem' }}>
         <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>🧠 GeniusGarage</h1>
         <p style={{ fontSize: '1.5rem', color: '#666', marginBottom: '2rem' }}>
-          Store your genius code snippets
+          Manage and share your code snippets
         </p>
 
         {/* Inline Button - we'll extract this to a shared package in Section 1 */}
