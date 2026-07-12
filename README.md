@@ -2,7 +2,7 @@
 
 A developer platform for storing and sharing your favorite code snippets.
 
-## What's Inside?
+## What's Inside??
 
 This monorepo uses [pnpm](https://pnpm.io) as a package manager and [Turborepo](https://turbo.build/repo) for build orchestration.
 
